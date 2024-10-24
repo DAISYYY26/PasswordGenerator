@@ -23,9 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 README.md
-package-lock.json
 eslint.config.js
-package.json
 postcss.config.js
 vite.config.js
 tailwind.config.js
