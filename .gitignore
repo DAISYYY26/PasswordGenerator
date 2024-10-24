@@ -27,3 +27,4 @@ eslint.config.js
 postcss.config.js
 vite.config.js
 tailwind.config.js
+public/
